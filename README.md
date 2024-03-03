@@ -7,7 +7,6 @@
 > - Phone: [+84 344 087 349](tel:+80344087349)
 
 
-
 I began coding with MASM (an assembly language) at 10 years old. Then delved into C, C++. So, I go with the foundation and optimization mindset. Based on that, I have learned and used higher level programming languages:
 
 - **MASM** (for RCA, application analysing)
