@@ -38,8 +38,9 @@ I have leaded a small team, specializing in building business-ERP websites and o
   > - `<I reply>`
 
   > [❌] Don't:
-  > - Hi. `Waiting...`
-  > - `<I reply>`
+  > - Hi.
+  > - `Waiting...`
+  > - `<I greet back>`
   > - `[Waiting...]`
   > - The problem is that ....
   > - `[Waiting...]`
