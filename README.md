@@ -26,12 +26,14 @@ I have leaded a small team, specializing in building business-ERP websites and o
 # Services:
 - **IT Solution Consultant (free)**
 
-  `Just inform me by any way if you need a solution for your business. Might I could help?`
+  > **Just inform me by any way if you need a solution for your business. Might I could help?**
 
 - **Programing training/supporter (free)**
 
-  `For my teammates, my friends and the curious ones. Every day, after 20:00, I will check the mail/messages inbox and start training classes. Feel free to inbox me. Don't be shy!`
+  > For my teammates, my friends and the curious ones. Every day, after 20:00 (GMT+7), I will check the mail/messages inbox and start training classes. Feel free to inbox me. It would be great if you could use the following languages: English (of course), Vietnamese (my native language), Chinese, German, French, Japanese, Korean or Russian. Or try using any translator. Everything you need is a specific solution.
+  > Don't be shy!
 
+- **Pls. Focus on the problem**
   > [✅] Do:
   > - Hi. I'm confusing in .... and the problem is ...
   > - `[Waiting...]`
