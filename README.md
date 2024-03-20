@@ -82,22 +82,22 @@ I have leaded a small team, specializing in building business-ERP websites and o
   </tr>
   <tr>
     <td>do-it-later-js</td>
-    <td>Settled</td>
+    <td>Stable</td>
     <td>Js</td>
   </tr>
   <tr>
     <td>rfc-diagram</td>
-    <td>Settled</td>
+    <td>Stable</td>
     <td>CSV</td>
   </tr>
   <tr>
     <td>rfcs-graph-data-processer</td>
-    <td>Settled</td>
+    <td>Stable</td>
     <td>HTML, Js</td>
   </tr>
   <tr>
     <td>directory-as-set-js</td>
-    <td>Settled</td>
+    <td>Stable</td>
     <td>Js</td>
   </tr>
   <tr>
