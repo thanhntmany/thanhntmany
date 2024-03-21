@@ -1,28 +1,3 @@
-# `Thanh Nguyen Thuan <thanhntmany@gmail.com>`
-
-> ### ERP-Fullstack Deverloper
-> - Email: [Thanhntmany@gmail.com](mailto:Thanhntmany@gmail.com)
-> - FB: [https://fb.com/thanhntmany](https://fb.com/)
-> - Telegram: [@thanhntmany](https://t.me/thanhntmany)
-> - Phone: [+84 344 087 349](tel:+80344087349)
-
-
-I began coding with MASM (an assembly language) at 10 years old. Then delved into C, C++. So, I go with the foundation and optimization mindset. Based on that, I have learned and used higher level programming languages:
-
-- **MASM** (for RCA, application analysing)
-- **C/C++** (build application, tools, solving LeetCode algorithm problems)
-- **Javascript** (or Nodejs) (both of web and application)
-- **Python** (Data science, Django, Odoo, academic research)
-- **VBA** (especially VBA for Excel)
-- **PHP** (vBulletin, Wordpress, Symfony)
-- **Java** (especially tools for processing PDFs)
-- **R** (processing data, academic researches)
-- ...
-
-
-I have leaded a small team, specializing in building business-ERP websites and optimizing systems, build solution for the specìic problems.
-
-
 # Services:
 - **IT Solution Consultant (free)**
 
@@ -51,6 +26,29 @@ I have leaded a small team, specializing in building business-ERP websites and o
   > - `[Waiting...]`
   > - `[Waiting...]`
 
+# `Thanh Nguyen Thuan <thanhntmany@gmail.com>`
+
+> ### ERP-Fullstack Deverloper
+> - Email: [Thanhntmany@gmail.com](mailto:Thanhntmany@gmail.com)
+> - FB: [https://fb.com/thanhntmany](https://fb.com/)
+> - Telegram: [@thanhntmany](https://t.me/thanhntmany)
+> - Phone: [+84 344 087 349](tel:+80344087349)
+
+
+I began coding with MASM (an assembly language) at 10 years old. Then delved into C, C++. So, I go with the foundation and optimization mindset. Based on that, I have learned and used higher level programming languages:
+
+- **MASM** (for RCA, application analysing)
+- **C/C++** (build application, tools, solving LeetCode algorithm problems)
+- **Javascript** (or Nodejs) (both of web and application)
+- **Python** (Data science, Django, Odoo, academic research)
+- **VBA** (especially VBA for Excel)
+- **PHP** (vBulletin, Wordpress, Symfony)
+- **Java** (especially tools for processing PDFs)
+- **R** (processing data, academic researches)
+- ...
+
+
+I have leaded a small team, specializing in building business-ERP websites and optimizing systems, build solution for the specìic problems.
 
 # Some public projects:
 
