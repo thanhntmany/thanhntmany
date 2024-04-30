@@ -48,7 +48,7 @@ I began coding with MASM (an assembly language) at 10 years old. Then delved int
 - ...
 
 
-I have leaded a small team, specializing in building business-ERP websites and optimizing systems, build solution for the specìic problems.
+I have leaded a small team, specializing in building business-ERP websites and optimizing systems, build solution for the specific problems.
 
 # Some public projects:
 
