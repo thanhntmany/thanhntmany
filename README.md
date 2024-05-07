@@ -5,7 +5,7 @@
 
 - **Programing training/supporter (free)**
 
-  > For my teammates, my friends and the curious ones. Every day, after 20:00 (GMT+7), I will check the mail/messages inbox and start training classes. Feel free to inbox me. It would be great if you could use the following languages: English (of course), Vietnamese (my native language), Chinese, German, French, Japanese, Korean or Russian. Or try using any translator. Everything you need is a specific solution.
+  > For my teammates, my friends and the curious ones. Every day, after 20:30 (GMT+7), I will check the mail/messages inbox and start training classes. Feel free to inbox me. It would be great if you could use the following languages: English (of course), Vietnamese (my native language), Chinese, German, French, Japanese, Korean or Russian. Or try using any translator. Everything you need is a specific solution.
   > Don't be shy!
 
 - **Pls. Focus on the problem**
